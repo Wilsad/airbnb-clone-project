@@ -69,3 +69,16 @@ Having clear specifications:
 - Makes future design iterations easier and more collaborative  
 - Improves user experience by maintaining visual harmony  
 
+
+## Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                        |
+|--------------------|-------------------------------------------------------------------------|
+| Project Manager    | Oversees timeline, coordinates team, manages deliverables               |
+| Frontend Developers| Implements UI components, ensures responsive design                     |
+| Backend Developers | Builds APIs, manages database, implements business logic                |
+| Designers          | Creates mockups, maintains design system, ensures UX quality            |
+| QA/Testers         | Writes test cases, performs testing, reports bugs                       |
+| DevOps Engineers   | Manages deployment, CI/CD pipeline, server infrastructure               |
+| Product Owner      | Defines requirements, prioritises features, represents stakeholders     |
+| Scrum Master       | Facilitates agile processes, removes blockers, organises meetings       |
